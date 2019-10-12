@@ -1,6 +1,13 @@
 # Drinks Flutter - Daftar Minuman dan Resep  ( Final Project Kelompok 2 - OSG05 )
 Aplikasi Flutter tentang daftar minuman beserta resep nya yang berasal dari berbagai negara, sumber API : thecocktaildb.
 
+## Fitur Aplikasi
+1. Menampilkan popular drinks dan latest drinks.
+2. Menampilkan list drinks berdasarkan category.
+3. Favorit drinks.
+4. Search drinks berdasarkan nama.
+5. Menampilkan halaman about.
+
 ## Desain Aplikasi
 Aplikasi ini di rancang menggunakan Adobe XD.
 
