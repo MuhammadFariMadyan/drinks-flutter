@@ -15,7 +15,7 @@ Aplikasi ini di rancang menggunakan Adobe XD.
 <img src="resources/design/df-halaman-daftar-minuman.gif" width="300" height="500" >
 
 ## Showcase Aplikasi
-<img src="https://s3.gifyu.com/images/showcase-final-project.gif" alt="showcase-final-project.gif" width="300" height="500">
+<img src="https://s3.gifyu.com/images/showcase-final-project.gif" width="300" height="500">
 
 ## Built With
 - [Flutter](https://flutter.dev)
