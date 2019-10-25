@@ -14,6 +14,8 @@ Aplikasi ini di rancang menggunakan Adobe XD.
 #### - Halaman daftar minuman : 
 <img src="resources/design/df-halaman-daftar-minuman.gif" width="300" height="500" >
 
+## Showcase Aplikasi
+<img src="https://lh3.googleusercontent.com/ckuKutG7HpuxsGDFFxrNx9rJwfX8man3DMo0MR-P6IuVfbZXarWWfzJ3KVX3DMu1ICXAmn7ginEglIi6LB2O5DLZHsBKRATmKGqSmqsH64ocq5VDY6HKjRlS8oyh_Jfka0pRUgaoDEcx3ZiC3wAkMScELIFkjqluA_PUrc5sBWnjyZCNB4vCWTokUS7cNVDnjo4df6rsjdGcFsvAJawfEKjGqzYmIFEJyNhWMZOL0LtlpUJbyYMHIGSUEc5dplJnpQ-tnSiVaF_YXzguv2MxQ_w98LoEB6eiLBF7pPZxrapm0kb-uJYuTzXGRPb7kUhS1mgEU4j5nelCtAcxzDII-eGENNpnRs3DuGGznjuOmL4oAKR5ZmPgk6nv4c-bCQKqs6Hn0WZAs_x9kzPUeCR9WhnZqkVem1q8OnHBRcuKOhr4m_4ZEqn0s3tXydQjrfEEGBGgpEUEQAb_nb-sqKh-HFPI0uZ_iRnThU_nXHQsaUeIQY53JVxfF8jkfZPBzTHsdZJSItXuKLt_gjhR8zK0NNTv4hHbABI_qnbeotHY8PI6l8aeUPojyFn91xxI4_kNnzlepZ4OqxWu5NaJFyHn4i-F-S0-3J_I-DHQtXv6UjOD4H3SBmTGN2AYMo0=w1304-h665" width="300" height="500">
 
 ## Built With
 - [Flutter](https://flutter.dev)
