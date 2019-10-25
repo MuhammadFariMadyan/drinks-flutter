@@ -24,10 +24,9 @@ class _FavoritScreenState extends State<FavoritScreen> {
             children: <Widget>[
               Container(
                 padding: EdgeInsets.only(
-                    top: MediaQuery.of(context).padding.top,
+                    top: 250,
                     left: 16,
-                    right: 16),
-                child: Image.asset("assets/images/userImage.png"),
+                    right: 16),                
               ),
               Container(
                 padding: EdgeInsets.only(top: 8),
