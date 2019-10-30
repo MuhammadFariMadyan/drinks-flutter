@@ -33,15 +33,20 @@ Aplikasi ini di rancang menggunakan Adobe XD.
 - [MediaQuery](https://api.flutter.dev/flutter/widgets/MediaQuery-class.html)
 - [SafeArea](https://api.flutter.dev/flutter/widgets/SafeArea-class.html)
 - [Future](https://api.flutter.dev/flutter/dart-async/Future-class.html)
-- [Hero](https://api.flutter.dev/flutter/widgets/Hero-class.html)   
+- [Hero](https://api.flutter.dev/flutter/widgets/Hero-class.html)
+- [TheCocktailDB](https://thecocktaildb.com)
+- [Bloc](https://pub.dev/packages/bloc)
+- [SQLite](https://pub.dev/packages/sqflite)
 
 
 ## Created By Kelompok 2
 - [Muhammad Fari Madyan](https://github.com/MuhammadFariMadyan)
-- []()
-- []()
-- []()
-- []()
+    - Menampilkan popular drinks dan latest drinks. (2 poin)
+    - Menampilkan detail drinks. (2 poin)
+    - Menampilkan halaman about. (1 poin)
+    - Design Pattern BLoC (3 poin)
+    - Fungsi REST API (2 poin)
+    - Fungsi CRUD SQLite (3 poin)
 
 ---
 
